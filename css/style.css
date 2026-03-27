@@ -139,6 +139,11 @@ sup {
         transition: all 0.3s ease;
         flex-shrink: 0;
 
+        .s2-btn.active {
+          background-color: #5E4B9D;
+          color: #fff;
+        }
+
         &:hover {
           background-color: #5E4B9D;
           color: #fff;
